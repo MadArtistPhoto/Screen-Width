@@ -7,6 +7,13 @@
     box-sizing: border-box;
 }
 
+#container
+{
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
 .one
 {
     width: 300px;
