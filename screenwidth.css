@@ -1,0 +1,57 @@
+/* screenwidth.css */
+
+*, ::before, ::after
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.one
+{
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.two
+{
+    width: 350px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+.three
+{
+    width: 400px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+.four
+{
+    width: 450px;
+    height: 100px;
+    border: 1px solid orange;
+}
+
+.five
+{
+    width: 500px;
+    height: 100px;
+    border: 1px solid blue;
+}
+
+.six
+{
+    width: 600px;
+    height: 100px;
+    border: 1px solid purple;
+}
+div
+{
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
